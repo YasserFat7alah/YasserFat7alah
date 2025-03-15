@@ -40,7 +40,7 @@
     &nbsp;&nbsp;
     <a href="https://www.hackerrank.com/YasserFat7alah?hr_r=1" target="blank"><img width='40px' src='images/hackerrank-brands.svg'/></a>
     &nbsp;&nbsp; 
-    <a href="https://discord.com/users/869242322804678727" target="blank"><img width='40px' src='images/discord-brands.svg'/></a>
+    <a href="https://discord.com/users/1002611291241844766" target="blank"><img width='40px' src='images/discord-brands.svg'/></a>
     &nbsp;&nbsp;
     <a href="https://fb.com/YasserFat7alah" target="blank"><img width='40px' src='images/facebook-brands.svg'/></a>
     &nbsp;&nbsp;
