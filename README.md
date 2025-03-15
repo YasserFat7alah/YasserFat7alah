@@ -32,15 +32,21 @@
     
 ### 👨‍💻Connect with me
 
-<div style= "display:flex; width:300px;justify-content: space-between; align-items:center; margin: 4px auto;">
-    <a href="https://x.com/YasserFat7alah" target="blank"> <img width='32px' src="images/x-twitter-brands.svg"></a>
+<div align="center">
+    &nbsp;&nbsp;
     <a href="https://linkedin.com/in/YasserFat7alah" target="blank"><img width='32px' src="images/linkedin-brands.svg"/></a>
-    <a href="https://fb.com/YasserFat7alah" target="blank"><img width='32px' src='images/facebook-brands-solid.svg'/></a>
+    &nbsp;&nbsp; 
     <a href="https://leetcode.com/u/notYAS/" target="blank"><img width='32px' src='images/leetcode-brands.svg'/></a>
+    &nbsp;&nbsp;
     <a href="https://www.hackerrank.com/YasserFat7alah?hr_r=1" target="blank"><img width='32px' src='images/hackerrank-brands.svg'/></a>
+    &nbsp;&nbsp; 
     <a href="https://discord.com/users/869242322804678727" target="blank"><img width='32px' src='images/discord-brands.svg'/></a>
+    &nbsp;&nbsp;
+    <a href="https://fb.com/YasserFat7alah" target="blank"><img width='32px' src='images/facebook-brands-solid.svg'/></a>
+    &nbsp;&nbsp;
+    <a href="https://x.com/YasserFat7alah" target="blank"> <img width='32px' src="images/x-twitter-brands.svg"></a>
 </div>
-<p style=' display: flex; justify-content: center; font-size:14px; margin:auto; '>
+<p align='center'>
     Interested in my work?
     <a href="https://www.buymeacoffee.com/YasserFat7alah" target="_blank" style= 'font-weight: bold; font-size:14px'>Buy Me A Coffe.
 </a>
