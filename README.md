@@ -32,19 +32,20 @@
     
 ### 👨‍💻Connect with me
 
-<p style='display: flex; width:210px; justify-content: space-between; align- items: center; margin: auto;'>
-    <a href="https://x.com/YasserFat7alah" target="blank"><i class="fa-brands fa-x-twitter" style = 'font-size: 32px;'></i></a>
-    <a href="https://linkedin.com/in/YasserFat7alah" target="blank"><i class="fa-brands fa-linkedin" style = 'font-size: 32px;'></i></a>
-    <a href="https://fb.com/YasserFat7alah" target="blank"><i class="fa-brands fa-facebook" style = 'font-size: 32px;'></i></a>
-  <!--   <a href="https://leetcode.com/u/notYAS/" target="blank"><i class="fa-brands fa-leetcode" style = 'font-size: 32px;'></i></a> -->
-    <a href="https://www.hackerrank.com/YasserFat7alah?hr_r=1" target="blank"><i class="fa-brands fa-hackerrank" style = 'font-size: 32px;'></i></a>
-    <a href="https://discord.com/users/869242322804678727" target="blank"><i class="fa-brands fa-discord" style = 'font-size: 32px;'></i></a>
-</p>
+<div style= "display:flex; width:300px;justify-content: space-between; align-items:center; margin: 4px auto;">
+    <a href="https://x.com/YasserFat7alah" target="blank"> <img width='32px' src="images/x-twitter-brands.svg"></a>
+    <a href="https://linkedin.com/in/YasserFat7alah" target="blank"><img width='32px' src="images/linkedin-brands.svg"/></a>
+    <a href="https://fb.com/YasserFat7alah" target="blank"><img width='32px' src='images/facebook-brands-solid.svg'/></a>
+    <a href="https://leetcode.com/u/notYAS/" target="blank"><img width='32px' src='images/leetcode-brands.svg'/></a>
+    <a href="https://www.hackerrank.com/YasserFat7alah?hr_r=1" target="blank"><img width='32px' src='images/hackerrank-brands.svg'/></a>
+    <a href="https://discord.com/users/869242322804678727" target="blank"><img width='32px' src='images/discord-brands.svg'/></a>
+</div>
 <p style=' display: flex; justify-content: center; font-size:14px; margin:auto; '>
     Interested in my work?
     <a href="https://www.buymeacoffee.com/YasserFat7alah" target="_blank" style= 'font-weight: bold; font-size:14px'>Buy Me A Coffe.
 </a>
 </p>
+
 
 
 <!--
