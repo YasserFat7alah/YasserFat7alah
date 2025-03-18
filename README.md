@@ -98,10 +98,11 @@
 ![profile visit](https://komarev.com/ghpvc/?username=YasserFat7alah) [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html)
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YasserFat7alah&show_icons=true&theme=dark&count_private=true" alt="my github stats" width="420"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YasserFat7alah&theme=dark&background=000000" width="420" height = 185 />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YasserFat7alah&show_icons=true&theme=dark&locale=en&layout=compact" alt="YasserFat7alah" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=YasserFat7alah&show_icons=true&theme=highcontrast&count_private=true" alt="my github stats" width="420" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YasserFat7alah&theme=dark&background=000000" width="420" height ="170" alt="streaks"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YasserFat7alah&show_icons=true&theme=highcontrast&locale=en&layout=compact&card_width=840&card_height=170" alt="language used" width="840" height="170" /> 
 
 </p>
 
 </div>
+
