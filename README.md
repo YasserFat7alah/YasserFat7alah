@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate with other developers
 
-- 💬 Ask me about **JavaScript and ReactJS**
+- 💬 Ask me about **JavaScript and NodeJS**
 
 - 📫 How to reach me **YasserFat7alah@gmail.com**
 
