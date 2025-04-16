@@ -1,12 +1,7 @@
 <p align="center">
   <a href="https://github.com/YasserFat7alah">
+    <h1 align="center" > Yasser Fathallah</h1>
   </a>
-<a>&emsp;&emsp;</a>
-  <a href="https://github.com/YasserFat7alah">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I+am+
-    Yasser+Fathallah;Web+Developer+(NodeJs);2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=left&width=440&height=45&color=1F6FEB&vCenter=true&pause=1000&size=25">
-  </a>
-</p>
 
 <br/>
 
