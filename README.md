@@ -127,9 +127,9 @@
 ![profile visit](https://komarev.com/ghpvc/?username=YasserFat7alah) [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html)
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YasserFat7alah&show_icons=true&theme=highcontrast&count_private=true" alt="my github stats" width="420" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YasserFat7alah&theme=dark&background=000000" width="420" height ="170" alt="streaks"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YasserFat7alah&show_icons=true&theme=highcontrast&locale=en&layout=compact&card_width=840&card_height=170" alt="language used" width="840" height="170" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasserfat7alah&show_icons=true&theme=github_dark" alt="my github stats" width="420" height="170"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YasserFat7alah&theme=dark&background=000000" width="420" height ="170" alt="streaks"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserfat7alah&layout=compact&theme=github_dark&card_width=840&card_height=170&size_weight=0.5&count_weight=0.5" alt="language used" /> 
 
 </p>
 
