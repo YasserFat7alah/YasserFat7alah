@@ -10,7 +10,7 @@
 
 <!-- - 🔭 Fullstack developer at Intlaq -->
 
-- 🌱 I’m currently learning **Backend Development & Software Development**
+- 🌱 I’m currently learning **Full Stack Development & Software Development**
 
 - 👯 I’m looking to collaborate with other developers
 
